@@ -1,4 +1,5 @@
 # Headline
 ## test
 
-> An awesome project.
+Start with this command in local:
+- docsify serve .
