@@ -1,9 +1,8 @@
 # content
 
-* 
 * https://docsify.js.org/#/quickstart
 
-*  npm i docsify-cli -g
+* npm i docsify-cli -g
 
 * cd blog
 
